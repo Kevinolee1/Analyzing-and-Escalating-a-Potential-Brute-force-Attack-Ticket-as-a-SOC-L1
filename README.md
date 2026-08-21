@@ -11,3 +11,5 @@ Scroll down to the Post Reply section and select Original Message to provide the
 In the designated text box, document the Initial Analysis, Analyst Actions, Recommended Actions, and Disposition to provide a clear and comprehensive record of the investigation.
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Brute-force-Attack-Ticket-as-a-SOC-L1/blob/4d40f5e4b2025867f25a59928c3889a87743c321/Screenshot%202026-08-20%20132336.png)
 Click Post Reply to submit the response and document the action in the ticket.
+![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Brute-force-Attack-Ticket-as-a-SOC-L1/blob/fdaa33439e18532611548dc7f74b649184eca9ab/Screenshot%202026-08-20%20132518.png)
+Navigate to the Internal Note tab, document your findings and analysis, and select Post Note to save the entry.

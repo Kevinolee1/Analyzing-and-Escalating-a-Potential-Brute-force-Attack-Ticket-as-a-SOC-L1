@@ -13,3 +13,5 @@ In the designated text box, document the Initial Analysis, Analyst Actions, Reco
 Click Post Reply to submit the response and document the action in the ticket.
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Brute-force-Attack-Ticket-as-a-SOC-L1/blob/fdaa33439e18532611548dc7f74b649184eca9ab/Screenshot%202026-08-20%20132518.png)
 Navigate to the Internal Note tab, document your findings and analysis, and select Post Note to save the entry.
+![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Brute-force-Attack-Ticket-as-a-SOC-L1/blob/7b8a6be4ef28b9fbe0b6e8306ede8d102f84d9e9/Screenshot%202026-08-20%20132611.png)
+Scroll to the top of the ticket and assign it to the SOC Level 2 Analyst for further investigation and escalation.

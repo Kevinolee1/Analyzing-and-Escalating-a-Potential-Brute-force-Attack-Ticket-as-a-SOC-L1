@@ -7,7 +7,7 @@ Log in to your SOC Level 1 (SOC L1) account to access the assigned security aler
 
 Click on the Suspicious Login Activity ticket to review the alert details and begin the investigation.
 
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Brute-force-Attack-Ticket-as-a-SOC-L1/blob/a9f2a5d084179b9a81005463f1af8a93cb1df6af/Screenshot%202026-10-04%20172010.png)
 
 Scroll down to the Post Reply section and select Original Message to provide the response.
 

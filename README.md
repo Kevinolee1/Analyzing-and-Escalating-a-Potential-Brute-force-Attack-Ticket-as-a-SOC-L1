@@ -30,4 +30,4 @@ Document your findings and analysis, select closed for ticket status and select 
 
 The Ticket has been successfully closed
 
-![Image alt]
+![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Brute-force-Attack-Ticket-as-a-SOC-L1/blob/3c0161eb2b379a018ad7f7b47790cb92c30ff8ae/Screenshot%202026-10-04%20172859.png)

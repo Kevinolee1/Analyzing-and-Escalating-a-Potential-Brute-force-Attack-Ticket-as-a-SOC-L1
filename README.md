@@ -25,4 +25,9 @@ Navigate to the Internal Note tab, document your findings and analysis, and sele
 
 Document your findings and analysis, select closed for ticket status and select Post Note to close the ticket
 
-![Image alt]()
+![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Brute-force-Attack-Ticket-as-a-SOC-L1/blob/4e2adc131a6449ced4cd3bdca00d0155c4ce9af9/Screenshot%202026-10-04%20172817.png)
+
+
+The Ticket has been successfully closed
+
+![Image alt]
